@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://Nadya2411.github.io/Rarasati",
+  "homepage": "http://Nadya2411.github.io/Rarasati_",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
